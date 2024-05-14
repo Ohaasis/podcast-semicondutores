@@ -23,11 +23,9 @@
 </p>
 
 <div align="center">
+<a href="https://github.com/Ohaasis/ebook-with-AI/blob/main/output/Ebook%20IA%20-%20MAPA%20DA%20ELETRONICA.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
-
-# Projeto Podcast Gerado por I.A.s
-
 
  > ℹ️ **NOTE:** Este é o trabalho desenvolvido com base no repositório realizado durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
